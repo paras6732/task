@@ -1,6 +1,6 @@
 # task
 Good Service and Bad service
-| S no. | Attributes       | points | Sub Attributes       | points |                         Test Case               | points | ICICI Service               | ICICI Points             | SBI Service               |         SBI Points                          |
+| S no. | Attributes       | points | Sub Attributes       | points |                         Test Case               | points | ICICI Service               | ICICI Points            | SBI Service               |         SBI Points                          |
 | ----- | ---------------- | ------ | -------------------- | ------ | ----------------------------------------------- | ------ | --------------------------- | ------------------------ | ------------------------- | ------------------------------------------- |
 |       |                  |        |                      |        |                                                 |        |                             |                          |                           |                                             |
 | 1     | communication    | 5      | a) Active Listening  | 2      | Always Assistance                               | 1      | YES                         | 1                        | NO                        | 0                                           |
